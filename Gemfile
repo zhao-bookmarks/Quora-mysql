@@ -19,6 +19,9 @@ end
 gem 'therubyracer'
 gem 'jquery-rails'
 
+#用户认证
+gem 'devise'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
