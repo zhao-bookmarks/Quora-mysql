@@ -1,0 +1,9 @@
+==项目说明==
+
+本人初学Rails，纯属菜鸟。从书本中学得一招半式，再难进境。于是仿写高人网站，以求突破。
+
+本项目仿写 者也 网站（http://www.zheye.org），者也 网站源代码：http://github.com/huacnlee/quora 。
+
+者也网站采用MongoDB数据库，本人才疏学浅，只会Mysql，所以在此使用Mysql仿写者也。
+
+如有侵权，实属无意冒犯！
